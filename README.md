@@ -6,9 +6,9 @@ The 3d printed parts are inspired by the PLEN2 parts but were redrawn from scrat
 
 Note: This is a work in progress. We are still busy building and testing it. Proceed at own risk :)
 
-(https://raw.githubusercontent.com/BinarySpace-Hackerspace/plenza/master/images/plenza1.jpg)
+![3d printed plenza](https://raw.githubusercontent.com/BinarySpace-Hackerspace/plenza/master/images/plenza1.jpg)
 
-(https://raw.githubusercontent.com/BinarySpace-Hackerspace/plenza/master/images/plenza2.jpg)
+![3d printed plenza](https://raw.githubusercontent.com/BinarySpace-Hackerspace/plenza/master/images/plenza2.jpg)
 
 www.binaryspace.co.za
 
